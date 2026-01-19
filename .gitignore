@@ -1,0 +1,13 @@
+# Special files for testing
+build/
+*/build/
+*/__pycache__/
+
+
+.venv
+
+# Keep other PDFs
+*.pdf
+
+
+.env
