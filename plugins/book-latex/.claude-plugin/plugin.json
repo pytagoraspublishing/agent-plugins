@@ -7,6 +7,5 @@
     "email": "bard.i.a.pettersen@himolde.no"
   },
   "license": "MIT",
-  "keywords": ["book", "latex", "typesetting", "academic", "publishing"],
-  "commands": "./skills/book-latex/commands/"
+  "keywords": ["book", "latex", "typesetting", "academic", "publishing"]
 }
