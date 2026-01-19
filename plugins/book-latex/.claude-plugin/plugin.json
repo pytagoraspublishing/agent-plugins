@@ -1,0 +1,12 @@
+{
+  "name": "book-latex",
+  "description": "Manage book projects with LaTeX support - create/edit parts, chapters, sections, and appendices",
+  "version": "1.0.0",
+  "author": {
+    "name": "BIPA",
+    "email": "bard.i.a.pettersen@himolde.no"
+  },
+  "license": "MIT",
+  "keywords": ["book", "latex", "typesetting", "academic", "publishing"],
+  "commands": "./skills/book-latex/commands/"
+}
