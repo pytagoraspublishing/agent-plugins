@@ -14,7 +14,7 @@
       "name": "book-latex",
       "source": {
         "source": "github",
-        "repo": "pytagoras/agent-plugins",
+        "repo": "pytagoras/pytagoras-agent-plugins",
         "path": "plugins/book-latex",
         "ref": "main"
       },
@@ -24,18 +24,30 @@
         "name": "BIPA",
         "email": "bard.i.a.pettersen@himolde.no"
       },
-      "repository": "https://github.com/pytagoras/agent-plugins",
+      "repository": "https://github.com/pytagoras/pytagoras-agent-plugins",
       "license": "MIT",
-      "keywords": ["book", "latex", "typesetting", "academic", "publishing"],
+      "keywords": [
+        "book",
+        "latex",
+        "typesetting",
+        "academic",
+        "publishing"
+      ],
       "category": "writing",
-      "tags": ["book", "latex", "typesetting", "academic", "publishing"],
+      "tags": [
+        "book",
+        "latex",
+        "typesetting",
+        "academic",
+        "publishing"
+      ],
       "strict": true
     },
     {
       "name": "statusline",
       "source": {
         "source": "github",
-        "repo": "pytagoras/agent-plugins",
+        "repo": "pytagoras/pytagoras-agent-plugins",
         "path": "plugins/statusline",
         "ref": "main"
       },
@@ -45,11 +57,23 @@
         "name": "BIPA",
         "email": "bard.i.a.pettersen@himolde.no"
       },
-      "repository": "https://github.com/pytagoras/agent-plugins",
+      "repository": "https://github.com/pytagoras/pytagoras-agent-plugins",
       "license": "MIT",
-      "keywords": ["statusline", "ui", "context", "session", "monitoring"],
+      "keywords": [
+        "statusline",
+        "ui",
+        "context",
+        "session",
+        "monitoring"
+      ],
       "category": "utilities",
-      "tags": ["statusline", "ui", "context", "session", "monitoring"],
+      "tags": [
+        "statusline",
+        "ui",
+        "context",
+        "session",
+        "monitoring"
+      ],
       "strict": true
     }
   ]

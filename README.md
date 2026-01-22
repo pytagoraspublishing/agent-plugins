@@ -9,13 +9,13 @@ Add this marketplace to Claude Code using one of these methods:
 **From GitHub:**
 
 ```bash
-/plugin marketplace add pytagoras/agent-plugins
+/plugin marketplace add pytagoras/pytagoras-agent-plugins
 ```
 
 **From a local clone:**
 
 ```bash
-/plugin marketplace add /path/to/agent-plugins
+/plugin marketplace add /path/to/pytagoras-agent-plugins
 ```
 
 ## Installing Plugins
@@ -36,8 +36,8 @@ For example:
 
 | Plugin         | Description                                                                                     |
 | -------------- | ----------------------------------------------------------------------------------------------- |
-| `book-latex`   | Manage book projects with LaTeX support - create/edit parts, chapters, sections, and appendices |
-| `statusline`   | Custom statusline for Claude Code - displays context usage, session time, git branch, and more  |
+| `book-latex` | Manage book projects with LaTeX support - create/edit parts, chapters, sections, and appendices |
+| `statusline` | Custom statusline for Claude Code - displays context usage, session time, git branch, and more  |
 
 ## Plugin Commands
 
@@ -56,7 +56,6 @@ To remove the marketplace:
 ```bash
 /plugin marketplace remove pytagoras-plugins
 ```
-
 
 ## Testing
 
